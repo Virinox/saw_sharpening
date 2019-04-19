@@ -1,0 +1,26 @@
+100+ Python Exercises
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Level Criteria
+-------------------------------------------------------------------------------------------------------------------------------------------
+Level 1:	Beginner
+    Completed an introductory Python course
+    Capable of solving simple problems with 1 or 2 Python classes or functions
+    Solutions are easily found online or in programming textbooks
+    
+Level 2:	Intermediate 
+    Completed an introductory Python course but possesses a strong programming background from previous languages
+    Capable of solving advanced toy problems with 3 or more Python classes or functions
+    Solutions are difficult to find online or in programming textbooks
+    
+Level 3:	Advanced
+    In-depth knowledge of Python 
+    Capable of solving complex real world problems using more libraries, functions, data structures and algorithms
+    Solutions utilize several Python standard packages and advanced techniques and are relevant to current industry challenges
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Exercise template
+-------------------------------------------------------------------------------------------------------------------------------------------
+Problem statement
+Hints provided
+Coded solution
