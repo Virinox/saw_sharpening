@@ -26,8 +26,7 @@ class String:
         return self.entry
 
     def printString(self):
-        capitalize = self.getString()
-        return capitalize.upper()
+        return self.entry.upper()
 
 
 test = String()
