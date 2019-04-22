@@ -47,7 +47,7 @@ class Calculate:
                 if not d[i].isdigit():
                     return "Error in list input!"
                 else:
-                    solution.append(int(round(sqrt((2 * self.C * int(d[i]) / self.H)))))
+                    solution.append(int(round(sqrt((2 * self.C * float(d[i]) / self.H)))))
 
         return solution
 
