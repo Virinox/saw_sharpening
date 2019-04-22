@@ -32,18 +32,11 @@ class Alpha:
 
     def generate(self):
         solution = ""
-        array = ""
         if self.entry is not None:
-            array = self.entry.split(',')
-            array.sort()
+            solution = self.entry.split(',')
+            solution.sort()
 
-        for i in range(len(array)):
-            if i != len(array)-1:
-                solution += array[i] + ","
-            else:
-                solution += array[i]
-
-        return solution
+        return ",".join(solution)
 
 
 test = Alpha()
