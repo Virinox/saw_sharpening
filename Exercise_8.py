@@ -32,6 +32,7 @@ class Alpha:
 
     def generate(self):
         solution = ""
+        array = ""
         if self.entry is not None:
             array = self.entry.split(',')
             array.sort()
