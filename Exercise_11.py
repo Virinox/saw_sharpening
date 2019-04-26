@@ -1,7 +1,7 @@
 # Exercise 11
 # Level 2
 # written by: Vince Mao
-# last modified: 2019.4.24
+# last modified: 2019.4.25
 # Description:
 # Write a program which accepts a sequence of comma-separated 4-digit binary numbers
 # as its input and then check whether they are divisible by 5 or not.
