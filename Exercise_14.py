@@ -31,7 +31,7 @@ class UpperLowerCount:
         self.entry = raw_input("Please enter a phrase or sentence containing lower and upper case letters: ")
 
     def process(self):
-        result = {"UPPER":0, "LOWER": 0}
+        result = {"UPPER": 0, "LOWER": 0}
         check = self.entry.split(" ")
         for word in check:
             for i in range(len(word)):
