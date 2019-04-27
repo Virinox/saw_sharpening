@@ -31,7 +31,7 @@ class AlphaNumCount:
         self.entry = raw_input("Please enter a phrase or sentence that contains numbers and letters: ")
 
     def process(self):
-        result = {"LETTERS":0, "DIGITS": 0}
+        result = {"LETTERS": 0, "DIGITS": 0}
         check = self.entry.split(" ")
         for word in check:
             for i in range(len(word)):
