@@ -26,7 +26,7 @@
 # Pseudocode:
 # 1. Instantiate a class for the program.
 # 2. Instantiate the method for multiple line input from the console.
-# 3. Instantiate the method for determine the type of transaction and summing the current amount.
+# 3. Instantiate the method for determining the type of transaction and summing the current amount.
 # 4. Return the current amount.
 
 import sys
