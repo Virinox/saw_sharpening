@@ -26,9 +26,10 @@
 #
 # Pseudocode:
 # 1. Instantiate a class for the program.
-# 2. Instantiate the method for multiple line input from the console.
-# 3. Instantiate the method for determine the type of transaction and summing the current amount.
-# 4. Return the current amount.
+# 2. Instantiate the method for parsing the comma-separated list of passwords.
+# 3. Instantiate the method for looping through the items in the list.
+# 4. Use if statements to see if the element meets the password criteria. If so, add it to the solution list.
+# 5. Return the list as a comma-separated list of passwords that fulfill the criteria.
 
 import re
 
