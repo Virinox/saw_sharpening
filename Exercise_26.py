@@ -9,7 +9,7 @@
 # Define a function with two numbers as arguments. You can compute the sum in the function and return the result.
 #
 # Pseudocode:
-# 1. Define function that takes two integer values.
+# 1. Define a function that takes two integer values.
 # 2. Return the sum.
 
 
