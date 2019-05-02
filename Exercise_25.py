@@ -16,8 +16,10 @@
 
 
 class Test:
-    def __init__(self):
-        self.value = 0
+    test = "Nothing"
+
+    def __init__(self, entry=None):
+        self.value = entry
 
     def generate(self):
         return self.value
