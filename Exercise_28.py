@@ -9,7 +9,7 @@
 # Use the int() method.
 #
 # Pseudocode:
-# 1. Define function that takes two integer values and returns the calculated sum.
+# 1. Define a function that takes two integer values and returns the calculated sum.
 
 
 def add_two_string_nums(a, b):
