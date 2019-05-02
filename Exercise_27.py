@@ -9,7 +9,7 @@
 # Use the str() method.
 #
 # Pseudocode:
-# 1. Define function that takes an integer value and converts it to a string before printing it.
+# 1. Define a function that takes an integer value and converts it to a string before printing it.
 
 
 def int_to_str(a):
