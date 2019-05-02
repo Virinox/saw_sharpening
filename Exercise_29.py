@@ -9,7 +9,7 @@
 # Use "+" to add strings together.
 #
 # Pseudocode:
-# 1. Define function that takes two string and returns the concatenated result.
+# 1. Define a function that takes two strings and returns the concatenated result.
 
 
 def combine_two_strings(a, b):
