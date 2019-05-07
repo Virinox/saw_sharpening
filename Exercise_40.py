@@ -1,4 +1,4 @@
-# Exercise 41
+# Exercise 40
 # Level 1
 # written by: Vince Mao
 # last modified: 2019.5.7
