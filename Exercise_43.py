@@ -7,12 +7,12 @@
 # Otherwise print "No".
 #
 # Hint:
-# Use the if statement to determine if the condition is true or not
+# Use the if statement to determine if the condition is true or not.
 #
 # Pseudocode:
 # 1. Define a function to prompt a raw input.
-# 2. Determine if the raw input fits any of the three inputs to return "Yes"
-# 3. Else, print "No"
+# 2. Determine if the raw input fits any of the three inputs to return "Yes".
+# 3. Else, print "No".
 
 
 def check_yes():
