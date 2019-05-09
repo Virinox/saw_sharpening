@@ -35,7 +35,7 @@ class FindNums:
         self.entry = raw_input("Please enter a sentence containing numbers: ")
 
     def process(self):
-        check = re.findall("\d", self.entry)
+        check = re.findall("\d+", self.entry)
         return check
 
 
