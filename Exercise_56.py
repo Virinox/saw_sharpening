@@ -14,6 +14,8 @@
 
 
 class MyException(Exception):
+    """A custom exception class
+    exception  -- describes the error"""
     def __init__(self, exception):
         self.error = exception
 
