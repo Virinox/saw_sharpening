@@ -28,7 +28,7 @@
 # 2. Initialize an empty string in the init class.
 # 3. Instantiate the method for raw input from the console.
 # 4. Call the recursive function based on input.
-# 5. Instantiate the function for going through the string and building the list generated.
+# 5. Define the function for going through the string and building the list generated.
 # 6. Use the recursive function to build the list sequence.
 
 
