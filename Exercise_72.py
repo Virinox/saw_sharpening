@@ -3,7 +3,7 @@
 # written by: Vince Mao
 # last modified: 2019.5.31
 # Description:
-# Please generate a random float value between 10 and 100 using the Python math module.
+# Please generate a random float value between 0 and 100 using the Python math module.
 #
 # Hint:
 # Use the random.random() method to generate a random float in the range of [0,1].
