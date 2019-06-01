@@ -1,4 +1,4 @@
-# Exercise 72
+# Exercise 73
 # Level 1
 # written by: Vince Mao
 # last modified: 2019.5.31
