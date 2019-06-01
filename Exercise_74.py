@@ -19,7 +19,7 @@ import random
 
 def random_generator():
     choices = []
-    for i in range(-1, 11):
+    for i in range(11):
         if i % 2 == 0:
             choices.append(i)
     return random.choice(choices)
