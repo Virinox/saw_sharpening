@@ -22,3 +22,4 @@ for x, y in enumerate(test):
         result.append(y)
 
 print result
+print [x for (i,x) in enumerate(test) if i not in (0, 4, 5)]
